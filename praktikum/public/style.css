@@ -1,0 +1,31 @@
+header{
+	text-align: center;
+	color: #232323;
+	font-size: large;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+  }
+  
+  li {
+	float: inline;
+	border-right: 5px solid #fff;
+	border-left: 5px solid #fff;
+  }
+
+
+.link {
+	display: block;
+	color: whitesmoke;
+	text-align: center;
+	padding: 10px 16px;
+	text-decoration: none;
+  }
+  
+.link:hover {
+	background-color: #f1f1;
